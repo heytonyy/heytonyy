@@ -1,6 +1,6 @@
 Hi there, thanks for stopping by! Here's a little about me:
 
-<img align='right' src="https://raw.githubusercontent.com/heytonyy/images/main/octocat-1672874301774.png?token=GHSAT0AAAAAAB5AODQQGLGROZPRZOLZ66PIY5WBPYA" width="230">
+<img align='right' src="https://raw.githubusercontent.com/heytonyy/images/main/octocat-1672874301774.png" width="230">
 
 ```javascript
 const heytonyy = {
@@ -27,5 +27,3 @@ const heytonyy = {
 <a href="https://github.com/heytonyy">
    <img src="https://komarev.com/ghpvc/?username=heytonyy">
 </a>
-
-![bottom.png](https://raw.githubusercontent.com/heytonyy/images/main/banner%20triangle.png?token=GHSAT0AAAAAAB5AODQQKZOT7IVLUTFJDH42Y5WBZXQ)
