@@ -1,5 +1,31 @@
-- 👋 Hi, I’m @heytonyy !
-- 👀 I’m interested in ... math, education, gaming, data, blockchain, fantasy!
-- 🌱 I’m currently learning ... Javascript / Python / Java
-- 💞️ I’m looking to collaborate on ... any projects that match my interest and help me grow as a software developer
-- 📫 How to reach me ... email: mraiello3@gmail.com
+Hi there, thanks for stopping by! Here's a little about me:
+
+<img align='right' src="https://raw.githubusercontent.com/heytonyy/images/main/octocat-1672874301774.png?token=GHSAT0AAAAAAB5AODQQGLGROZPRZOLZ66PIY5WBPYA" width="230">
+
+```javascript
+const heytonyy = {
+    fullName: "Tony Aiello",
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "math", "education", "cryptography", "fantasy", "games", "music"],
+    technologies: {
+        frontEnd: {
+            js: ["Vanilla JS", "React"],
+            css: ["Bootstrap", "Halfmoon", "Material UI"]
+        },
+        backEnd: ["Java", "Python", "Express"],
+        databases: ["MySql", "MongoDB"],
+        architecture: ["event-driven", "single page applications"],
+    }
+};
+```
+
+![heytonyy's github stats](https://github-readme-stats.vercel.app/api?username=heytonyy&hide=contribs,prs&count_private=true&show_icons=true)
+
+<a href="https://github.com/heytonyy">
+  <img src="https://img.shields.io/github/followers/heytonyy">
+</a>
+<a href="https://github.com/heytonyy">
+   <img src="https://komarev.com/ghpvc/?username=heytonyy">
+</a>
+
+![bottom.png](https://raw.githubusercontent.com/heytonyy/images/main/banner%20triangle.png?token=GHSAT0AAAAAAB5AODQQKZOT7IVLUTFJDH42Y5WBZXQ)
