@@ -20,8 +20,8 @@ const heytonyy = {
 };
 ```
 
-<!-- ![heytonyy's github stats](https://github-readme-stats.vercel.app/api?username=heytonyy&hide=contribs,prs&count_private=true&show_icons=true) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heytonyy&langs_count=10&theme=tokyonight&layout=compact" alt="heytonyy :: Top Langs" /></p> 
+![heytonyy's github stats](https://github-readme-stats.vercel.app/api?username=heytonyy&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heytonyy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/heytonyy">
   <img src="https://img.shields.io/github/followers/heytonyy">
