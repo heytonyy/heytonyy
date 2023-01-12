@@ -10,7 +10,7 @@ const heytonyy = {
     technologies: {
         frontEnd: {
             js: ["Vanilla JS", "React"],
-            css: ["Bootstrap", "Halfmoon", "Material UI"]
+            css: ["Bootstrap", "Halfmoon", "Material UI", "Tailwind"]
         },
         backEnd: ["Java", "Python", "Express"],
         databases: ["MySql", "MongoDB"],
