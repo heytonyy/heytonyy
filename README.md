@@ -1,12 +1,12 @@
 <h2 align="center">Hi there, thanks for stopping by! 😊  Here's a little about me:</h2>
 
-<img align='right' src="https://raw.githubusercontent.com/heytonyy/images/main/octocat-1672874301774.png" width="230">
+<!-- <img align='right' src="https://raw.githubusercontent.com/heytonyy/images/main/octocat-1672874301774.png" width="230"> -->
 
 ```javascript
 const heytonyy = {
     fullName: "Tony Aiello",
     pronouns: "He" | "Him",
-    interests: ["web dev", "math", "education", "drag queens", "fantasy", "video games", "metal music"],
+    interests: ["web dev", "math", "cats", "drag queens", "fantasy", "video games", "metal music"],
     technologies: {
         frontEnd: {
             js: ["Vanilla JS", "React"],
