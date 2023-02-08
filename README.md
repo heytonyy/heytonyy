@@ -9,12 +9,12 @@ const heytonyy = {
     interests: ["web dev", "math", "cats", "drag queens", "fantasy", "video games", "metal music"],
     technologies: {
         frontEnd: {
-            js: ["Vanilla JS", "React"],
-            css: ["Bootstrap", "Halfmoon", "Material UI", "Tailwind"]
+            js: ["vanilla js", "react js"],
+            css: ["bootstrap", "halfmoon", "material ui", "tailwind"]
         },
-        backEnd: ["Java", "Python", "Express"],
-        databases: ["MySQL", "MongoDB"],
-        architecture: ["event-driven", "single page applications"],
+        backEnd: ["java", "python", "express"],
+        databases: ["sql", "mongo-db"],
+        tools: ["vs-code", "postman", "mysql", "aws", "vercel", "heroku", "docker"],
     },
     pastCareers: ["high school teacher", "library technician"]
 };
