@@ -6,14 +6,14 @@
 const heytonyy = {
     fullName: "Tony Aiello",
     pronouns: "He" | "Him",
-    interests: ["web dev", "math", "education", "cryptography", "fantasy", "games", "music"],
+    interests: ["web dev", "math", "education", "drag queens", "fantasy", "video games", "metal music"],
     technologies: {
         frontEnd: {
             js: ["Vanilla JS", "React"],
             css: ["Bootstrap", "Halfmoon", "Material UI", "Tailwind"]
         },
         backEnd: ["Java", "Python", "Express"],
-        databases: ["MySql", "MongoDB"],
+        databases: ["MySQL", "MongoDB"],
         architecture: ["event-driven", "single page applications"],
     },
     pastCareers: ["high school teacher", "library technician"]
