@@ -16,7 +16,7 @@ const heytonyy = {
         databases: ["sql", "mongo-db"],
         tools: ["vs-code", "postman", "mysql", "aws", "vercel", "heroku", "docker"],
     },
-    pastCareers: ["high school teacher", "library technician"]
+    careers: ["web developer", "high school teacher", "library technician"]
 };
 ```
 
