@@ -6,7 +6,7 @@
 const heytonyy = {
     fullName: "Tony Aiello",
     pronouns: "He" | "Him",
-    interests: ["web dev", "math", "cats", "drag queens", "fantasy", "video games", "metal music"],
+    interests: ["web dev", "math", "cats", "machine learning", "drag queens", "video games", "metal music"],
     technologies: {
         frontEnd: {
             js: ["vanilla js", "react js"],
