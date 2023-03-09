@@ -9,10 +9,10 @@ const heytonyy = {
     interests: ["web dev", "math", "cats", "machine learning", "drag queens", "video games", "metal music"],
     technologies: {
         frontEnd: {
-            js: ["vanilla js", "react js"],
-            css: ["bootstrap", "halfmoon", "material ui", "tailwind"]
+            js: ["vanilla js", "reactjs"],
+            css: ["bootstrap", "halfmoon", "material-ui", "tailwind"]
         },
-        backEnd: ["java", "python", "express"],
+        backEnd: ["python flask", "nodejs", "java spring"],
         databases: ["sql", "mongo-db"],
         tools: ["vs-code", "postman", "mysql", "aws", "vercel", "heroku", "docker"],
     },
