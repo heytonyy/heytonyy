@@ -14,7 +14,7 @@ const heytonyy = {
         },
         back_end: ["python flask", "nodejs", "java spring"],
         databases: ["sql", "mongo-db"],
-        machine_learning: ["pytorch", "keras", "sklearn"]
+        machine_learning: ["pytorch", "keras", "sklearn"],
         tools: ["vs-code", "postman", "mysql", "aws", "vercel", "heroku", "docker", "kaggle", "google colab"],
     },
     careers: ["web developer", "high school teacher", "library technician"]
