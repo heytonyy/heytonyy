@@ -8,13 +8,14 @@ const heytonyy = {
     pronouns: "He" | "Him",
     interests: ["web dev", "math", "cats", "machine learning", "drag queens", "video games", "metal music"],
     technologies: {
-        frontEnd: {
+        front_end: {
             js: ["vanilla js", "reactjs"],
             css: ["bootstrap", "halfmoon", "material-ui", "tailwind"]
         },
-        backEnd: ["python flask", "nodejs", "java spring"],
+        back_end: ["python flask", "nodejs", "java spring"],
         databases: ["sql", "mongo-db"],
-        tools: ["vs-code", "postman", "mysql", "aws", "vercel", "heroku", "docker"],
+        machine_learning: ["pytorch", "keras", "sklearn"]
+        tools: ["vs-code", "postman", "mysql", "aws", "vercel", "heroku", "docker", "kaggle", "google colab"],
     },
     careers: ["web developer", "high school teacher", "library technician"]
 };
