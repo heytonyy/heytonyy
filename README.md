@@ -6,18 +6,18 @@
 const heytonyy = {
     full_name: "Tony Aiello",
     pronouns: "He" | "Him",
-    interests: ["web dev", "math", "machine learning", "cats", "drag queens", "video games", "metal music"],
+    interests: ["math", "cats", "drag queens", "puzzles", "video games", "metal music"],
     technologies: {
-        front_end: {
-            js: ["vanilla js", "reactjs"],
-            css: ["bootstrap", "halfmoon", "material-ui", "tailwind"]
-        },
-        back_end: ["python flask", "nodejs", "java spring"],
-        databases: ["sql", "mongo-db"],
+        web: {
+            front_end: ["reactjs", "material-ui", "tailwind", "bootstrap"],
+            back_end: ["nodejs", "flask", "spring boot"],
+            databases: ["sql", "mongo-db"],
+        }, 
         machine_learning: ["pytorch", "keras", "sklearn"],
+        game_dev: ["unity"],
         tools: ["vs-code", "postman", "mysql", "aws", "vercel", "heroku", "docker", "kaggle", "google colab"],
     },
-    careers: ["web developer", "high school teacher", "library technician"]
+    careers: ["software developer", "high school teacher", "library technician"]
 };
 ```
 
