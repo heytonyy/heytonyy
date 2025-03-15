@@ -4,7 +4,6 @@
 
 ```javascript
 const heytonyy = {
-    full_name: "Tony Aiello",
     pronouns: "He" | "Him",
     interests: ["math", "cats", "drag queens", "puzzles", "video games", "metal music"],
     technologies: {
